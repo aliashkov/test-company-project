@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "title": "Music Streaming Service",
+    "description": "Discover thousands of tracks, curated playlists and personalized recommendations to help you find the perfect soundtrack for every moment of your life",
+    "image": "11.png"
+  },
+   {
+    "id": "2",
+    "title": "Online Music Studio",
+    "description": "Professional-grade music creation tools and collaboration features to create, record and mix music from anywhere in the world",
+    "image": "13.png"
+  },
+  
+  {
+    "id": "3",
+    "title": "AI Technology",
+    "description": "Cutting-edge artificial intelligence solutions that transform your everyday tasks into seamless, automated experiences while ensuring maximum efficiency.",
+        "image": "12.png"
+  }
+]

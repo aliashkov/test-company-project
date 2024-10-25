@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.App{
+  width: 100%;
+  overflow-x: hidden;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+/* fancy intalic font */
+@font-face {
+	font-family: 'MeieScriptRegular';
+	src: url('..//..//fonts/MeieScriptRegular.ttf');
+}
+
+/* main header's font */
+@font-face {
+	font-family: 'PTSerif-Bold';
+	src: url('..//..//fonts/PTSerif-Bold.ttf');
+}
+/* regular text */
+@font-face {
+	font-family: 'PTSans-Regular';
+	src: url('..//..//fonts/PTSans-Regular.ttf');
+
+}
+
+:root {
+	--color-text: #141414;
+	--color-yellow: #ffc60d;
+	--color-white: #fff;
+}
+
+

@@ -1,0 +1,27 @@
+.footer{
+  text-align: center;
+  margin-top: auto; 
+  height: 80px;
+  font-family: 'PTSans-Regular';
+  background-color: var(--color-white);
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 4px 4px rgba(0, 0, 0 , 0.25);
+}
+.footer-container{
+  max-width: 1500px;
+  width: 100%;
+  padding: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+.footer-container a{
+  transition: 0.2s ease-in-out;
+}
+.footer-container a:hover{
+  transform: scale(1.3);
+}
