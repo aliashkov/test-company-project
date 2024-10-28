@@ -71,7 +71,7 @@ const Contact = () => {
 
                 <div className="contact-details">
                     <div className="contact-image">
-                        <a href="mailto:gena.bondarev@gmail.com">
+                        <a className="contact-image" href="mailto:gena.bondarev@gmail.com">
                             <img src={email} alt="email-sign" />
                         </a>
                     </div>

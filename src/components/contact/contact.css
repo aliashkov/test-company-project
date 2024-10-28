@@ -206,6 +206,9 @@
   margin-bottom: 0; /* Remove margin-bottom since we're using gap */
 }
 
+
+
+
 @media (max-width: 1150px) {
   .contact-details {
       justify-content: flex-start;
