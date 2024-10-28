@@ -1,5 +1,5 @@
 .header{
-  background-color: grey;
+  background-color: #121212;
   position: fixed;
   top: 0;
   left: 0;
@@ -22,7 +22,7 @@
   list-style-type: none;
 }
 .header-link a{
-  color: var(--color-text);
+  color: white;
 }
 .header-link{
   font-family: 'PTSans-Regular';
