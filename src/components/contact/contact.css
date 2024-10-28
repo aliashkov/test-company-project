@@ -37,18 +37,21 @@
   font-family: 'PTSerif-Bold', serif;
   font-size: 48px;
   color: white;
+  text-align: left;
+  padding-left: 70px;
 }
 
 .svg-contact {
   margin-bottom: 60px;
-  margin-left: 10px;
+  margin-left: 100px;
 }
 
 .contact-details {
   display: flex;
   flex-direction: row;
-  align-items: center;
+/*   align-items: center; */
   text-align: left;
+  padding-bottom: 30px;
   padding-bottom: 30px;
   font-family: 'PTSerif-Bold', serif;
   font-size: 32px;
@@ -56,6 +59,10 @@
   word-wrap: break-word;
   overflow-wrap: break-word;
   max-width: 100%;
+}
+
+.contacts-field{
+
 }
 
 .contact-image {
@@ -246,14 +253,23 @@
       align-items: center;
   }
 
+  .map-container {
+    height: 300px;
+  }
+
+  .svg-contact {
+    margin-left: 50px;
+  }
+
   .left {
       padding-right: 0;
-      padding-bottom: 130px;
+      padding-bottom: 60px;
       align-items: center;
   }
 
   .contact-top {
       font-size: 54px;
+      padding-left: 0px;
   }
 
   .contact-details {
@@ -297,7 +313,6 @@
 
   .form-title {
       font-size: 24px;
-      text-align: center;
   }
 }
 
