@@ -32,7 +32,7 @@
 }
 
 h1 {
-  color: #FFC60D;
+  color:  #88cdf4;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   font-size: clamp(2rem, 5vw + 1rem, 3.375rem);
@@ -41,7 +41,7 @@ h1 {
 
 .projects-title {
   margin-top: 1em;
-  color: #FFC60D;
+  color:  #88cdf4;
   font-family: 'PTSerif-Bold';
   font-size: 2.5rem;
 }
@@ -79,7 +79,7 @@ p {
 }
 
 .project-card h3 {
-  color: #FFC60D;
+  color:  #88cdf4;
   font-family: 'PTSerif-Bold';
   font-size: 1.8rem;
   margin-bottom: 1em;
@@ -100,7 +100,7 @@ p {
 
 .tech-stack span {
   background: rgba(255, 198, 13, 0.1);
-  color: #FFC60D;
+  color:  #88cdf4;
   padding: 0.5em 1em;
   border-radius: 20px;
   font-size: 0.9rem;

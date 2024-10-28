@@ -10,7 +10,7 @@
 
 :root {
 	--color-text: #ffffff;
-	--color-yellow: #ffc60d;
+	--color-yellow:  #88cdf4;
 	--color-white: #fff;
 }
 
@@ -64,7 +64,7 @@
 	line-height: 1;
 	color: white;
 	max-width: 780px;
-	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
 .block-text h2 {
@@ -74,7 +74,7 @@
 	line-height: 1.33333;
 	color: var(--color-white);
 	margin-top: 30px;
-	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
 .description2 {
@@ -82,7 +82,7 @@
 	font-size: 24px;
 	color: var(--color-white);
 	margin-top: 20px;
-	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
 .features {
@@ -98,8 +98,8 @@
 	color: var(--color-white);
 	font-size: 18px;
 	border: 1px solid rgba(255, 255, 255, 0.3);
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-	text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
 	backdrop-filter: blur(5px);
 }
 /* Rest of your media queries remain the same, just update the colors to white */
