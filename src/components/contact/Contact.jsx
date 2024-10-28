@@ -91,7 +91,7 @@ const Contact = () => {
 
             </div>
 
-            <div className="right">
+            {/* <div className="right">
                 <div className="form-title">
                 Submit your request
                 </div>
@@ -111,7 +111,7 @@ const Contact = () => {
 
                     </div>
                 </form>
-            </div>
+            </div> */}
 
         </main>
 

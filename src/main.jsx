@@ -7,6 +7,5 @@ import Call from './components/call/call.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Call />
   </StrictMode>,
 )
