@@ -8,7 +8,7 @@ import futureReady from '..//..//icons/future-ready.png';
 const AboutUs = () => {
   return (
     <div className='about-container' id="about">
-      <h1>About Us</h1>
+      <h1 className='about-us'>About Us</h1>
       <div className='about-content-one'>
         <div className='about-text-box'>
           <p className='text'>

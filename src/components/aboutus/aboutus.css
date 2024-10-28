@@ -28,26 +28,31 @@
 
 .about-text-box {
   margin: 0 auto;
-  max-width: 1280px;
+  max-width: 1060px;
+}
+
+.about-us {
+   color: white !important;
 }
 
 h1 {
   color:  #88cdf4;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 5rem;
+  padding-bottom: 3.75rem;
   font-size: clamp(2rem, 5vw + 1rem, 3.375rem);
   font-family: 'PTSerif-Bold';
 }
 
 .projects-title {
-  margin-top: 1em;
-  color:  #88cdf4;
+  margin-top: 5rem;
+  margin-bottom: 3.75rem;
+  color:  white;
   font-family: 'PTSerif-Bold';
   font-size: 2.5rem;
 }
 
 p {
-  color: #97999B;
+  color: #d1d1d1;
   font-family: "PT Sans", sans-serif;
   font-size: 1.4rem;
   line-height: 1.4;
@@ -96,7 +101,7 @@ p {
 }
 
 .project-description {
-  color: #97999B;
+  color: #d1d1d1;
   margin-bottom: 1.5em;
   line-height: 1.6;
 }
